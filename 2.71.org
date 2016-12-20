@@ -1,0 +1,11 @@
+#+Title: Exercício 2.71
+
+
+Para codificar o de maior frequência (n= 5 ou 10) precisamos de 1 Bit.
+Para codificar o de menor frequência n = 5 precisamos de ( n - 1 ) 4 bits e para n = 10 precisamos de 9 bits.
+
+[[file:71.JPG]]
+
+
+
+
